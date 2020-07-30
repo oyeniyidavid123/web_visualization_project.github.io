@@ -1,6 +1,6 @@
 # web_visualization_project.github.io
 ## Objective:
-The main objective behind this project is to puttogether the skills learned from HTML, CSS and JS to build a full stack related website.
+The main objective behind this project is to put together the skills learned from HTML, CSS and JS to build a related website.
 
 ## Step 1:
 The project was built and this includes: Creating folders, addings files, and connecting files using a texteditor VSC.
