@@ -1,5 +1,5 @@
 # web_visualization_project.github.io
-# Deployed link ---  https://oyeniyidavid123.github.io/web_visualization_project.github.io/
+## Deployed link ---  https://oyeniyidavid123.github.io/web_visualization_project.github.io/
 
 
 ![image](https://user-images.githubusercontent.com/57304123/88911687-0c40b400-d213-11ea-94ee-a1a75b56cd10.png)
