@@ -1,4 +1,5 @@
 # web_visualization_project.github.io
+Deployed link ---  https://oyeniyidavid123.github.io/web_visualization_project.github.io/
 ![image](https://user-images.githubusercontent.com/57304123/88911687-0c40b400-d213-11ea-94ee-a1a75b56cd10.png)
 ## Objective:
 The main objective behind this project is to put together the skills learned from HTML, CSS and JS to build a related website.
